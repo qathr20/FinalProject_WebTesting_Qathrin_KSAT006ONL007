@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Newsletter</name>
+   <tag></tag>
+   <elementGuidId>fcdbd849-da8c-4506-9457-63b0784c51d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='text-5']/div/h3/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>28766b5f-5025-4a82-ae11-048754976be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Newsletter
+</value>
+      <webElementGuid>58fe8bb2-fbd0-4bf3-b283-12de191b9bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-5&quot;)/div[@class=&quot;textwidget&quot;]/h3[1]/strong[1]</value>
+      <webElementGuid>6c7904b1-9aa3-41d4-95ab-c5860212de5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>5d47bdd7-b6ca-4e93-adb6-6e8f2c84324d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Newsletter
+</value>
+      <webElementGuid>9876d6f9-7b47-4492-8fcc-f583fa7c3c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-5&quot;)/div[@class=&quot;textwidget&quot;]/h3[1]/strong[1]</value>
+      <webElementGuid>ae120b6a-b2ae-4344-8ef2-d7596a4f03a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='text-5']/div/h3/strong</value>
+      <webElementGuid>fafb11a1-fbfd-4ca9-b66a-f9a3f5e5f533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[7]/following::strong[1]</value>
+      <webElementGuid>878a4516-87eb-46cb-8d9c-5195027fa94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[7]/following::strong[1]</value>
+      <webElementGuid>6f7c2496-ed63-4497-9359-3a90de1fa23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::strong[1]</value>
+      <webElementGuid>fbaeffa3-4635-4766-9c34-49b9ad67b20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Newsletter']/parent::*</value>
+      <webElementGuid>72f6011f-cad4-4263-b690-8d38aa63fa20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>312c7764-1901-43d8-930b-87e5909783b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Newsletter
+' or . = 'Newsletter
+')]</value>
+      <webElementGuid>3ae09051-5759-4a88-9f7f-457fa2fbf8f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

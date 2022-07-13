@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Klik disini untuk simulasi pembayara_0d60dc</name>
+   <tag></tag>
+   <elementGuidId>d996ca44-277b-4c8e-9b90-7e11df97dcfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f03c9efd-97db-4bb6-9322-4ebe60474a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white font-semibold underline focus:outline-none</value>
+      <webElementGuid>ca613781-0515-4f30-9f21-7c1168543294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Klik disini untuk simulasi pembayaran dengan BCA</value>
+      <webElementGuid>39c2d9f3-9d9c-4e96-ba94-89a69213ee93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;px-4 sm:px-20 md:px-lg py-2 sticky sm:relative top-0 z-10 bg-red-500 font-sans text-center text-xs sm:text-sm font-semibold&quot;]/button[@class=&quot;text-white font-semibold underline focus:outline-none&quot;]</value>
+      <webElementGuid>33e9d7ea-0ad8-4ac2-8169-30297a8f2369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/button</value>
+      <webElementGuid>04e4c757-f4ff-4241-b698-38ab34f83b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDLC'])[1]/preceding::button[1]</value>
+      <webElementGuid>1e24f57e-7fe4-4ed2-91ef-fd7c4c635605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::button[1]</value>
+      <webElementGuid>c16d0146-948e-4f15-b143-61c1944a2d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Klik disini untuk simulasi pembayaran dengan BCA']/parent::*</value>
+      <webElementGuid>fbe0573a-6ed2-4981-b920-ddc70e7d7bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1cec7256-0f60-4dd2-a05a-09f12c519130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Klik disini untuk simulasi pembayaran dengan BCA' or . = 'Klik disini untuk simulasi pembayaran dengan BCA')]</value>
+      <webElementGuid>e93b43d9-ff26-4c02-8bf1-179877d86ebf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

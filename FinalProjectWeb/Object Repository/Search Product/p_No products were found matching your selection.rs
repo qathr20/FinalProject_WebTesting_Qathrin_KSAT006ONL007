@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_No products were found matching your selection</name>
+   <tag></tag>
+   <elementGuidId>5a8cd305-88ca-4099-b3df-c6ae469fbe70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>765797b2-1e46-4478-872c-4a5d2cb548ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-info</value>
+      <webElementGuid>ef70a9c0-6eff-45a3-8f3c-46c54c42b1bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No products were found matching your selection.</value>
+      <webElementGuid>27ac0cda-501c-420a-bf73-1d3d7588bd1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/p[@class=&quot;woocommerce-info&quot;]</value>
+      <webElementGuid>a24328fe-ab75-4751-8757-16653d4c88e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky_bottom_anchor']/p</value>
+      <webElementGuid>9e8b7f6f-ca44-4305-b9bb-27fffb1d2744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新しいレシピセット'])[3]/following::p[1]</value>
+      <webElementGuid>01676cdf-f61d-401a-81c4-0beff61b2ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='テンペ'])[3]/following::p[1]</value>
+      <webElementGuid>6622653d-1623-4f28-91fd-f0311a7bcf92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::p[1]</value>
+      <webElementGuid>1db9eafd-4ac5-40a0-83fd-8009b9f87aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No products were found matching your selection.']/parent::*</value>
+      <webElementGuid>bd5a2ba5-4cc1-467e-a213-1f11de1fe7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>d58bc116-146a-4e91-a895-a7bfe0b55371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'No products were found matching your selection.' or . = 'No products were found matching your selection.')]</value>
+      <webElementGuid>a4a1a8af-b1ab-4cc3-b40e-e03e036a8b90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

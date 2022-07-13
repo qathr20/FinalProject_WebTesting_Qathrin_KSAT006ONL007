@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Featured products_header_search_button</name>
+   <tag></tag>
+   <elementGuidId>1231304c-cfd5-4d1e-a202-dc53458cd351</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.header_search_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>709c2dee-efaa-402e-b3f7-aa515355fb65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header_search_button</value>
+      <webElementGuid>9307e9c5-a63c-4e9f-9049-4147d1ec5835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>752379f6-5427-4b68-93be-ff357e073e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform&quot;]/body[@class=&quot;home page-template-default page page-id-152 page-child parent-pageid-150 wp-embed-responsive theme-the-hanger woocommerce-js wpb-js-composer js-comp-ver-6.7.0 vc_responsive site-main-font header-layout-full content-layout-full page-without-title footer-layout-boxed&quot;]/div[@class=&quot;site-wrapper&quot;]/header[@class=&quot;site-header site-header-style-1 header-normal&quot;]/div[@class=&quot;row small-collapse&quot;]/div[@class=&quot;small-12 columns&quot;]/div[@class=&quot;header-content&quot;]/div[@class=&quot;header-line-1&quot;]/div[@class=&quot;row align-middle&quot;]/div[@class=&quot;small-12 medium-8 large-9 columns&quot;]/div[@class=&quot;header-line-1-wrapper&quot;]/div[@class=&quot;header-search&quot;]/form[@class=&quot;header_search_form&quot;]/div[@class=&quot;header_search_button_wrapper&quot;]/button[@class=&quot;header_search_button&quot;]</value>
+      <webElementGuid>421c8438-892f-446e-847f-ea03647c5f1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>c2a215d4-2d35-422d-87d5-c3dbd6568ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5926f189-7660-412b-a8e2-82c170a897d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>1dc3facf-42b0-4663-ba49-005ab25a6aea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

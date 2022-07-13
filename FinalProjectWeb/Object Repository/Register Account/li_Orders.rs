@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Orders</name>
+   <tag></tag>
+   <elementGuidId>3bcc772d-fefa-43d7-a098-6ece7b1e2e5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--orders</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-55']/div/div/nav/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>028cc741-5673-48f5-879b-2925e9224c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--orders</value>
+      <webElementGuid>ea4a4495-6955-4d6d-985f-50d77941bac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Orders
+			</value>
+      <webElementGuid>a5551843-08fb-4912-a4cf-49969d8dc800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-55&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/nav[@class=&quot;woocommerce-MyAccount-navigation&quot;]/ul[1]/li[@class=&quot;woocommerce-MyAccount-navigation-link woocommerce-MyAccount-navigation-link--orders&quot;]</value>
+      <webElementGuid>eb5c08dc-9e9b-455e-a204-73aa312d11b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-55']/div/div/nav/ul/li[2]</value>
+      <webElementGuid>99d4095f-0ea2-48f3-a62c-7327a3398fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::li[1]</value>
+      <webElementGuid>77282028-10e8-4708-bf9b-eaa39ee7b7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='yas'])[1]/following::li[2]</value>
+      <webElementGuid>2d94daab-8e45-4de0-9d4c-df44953f3158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/preceding::li[1]</value>
+      <webElementGuid>0a26320e-ea6f-4a52-9ebe-b39fb0cd3426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/nav/ul/li[2]</value>
+      <webElementGuid>1e01e0e4-776b-493c-bee9-30e77c9985a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+				Orders
+			' or . = '
+				Orders
+			')]</value>
+      <webElementGuid>20b4a007-e57f-4e01-a1c4-1d7b313c08f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
